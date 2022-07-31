@@ -1,0 +1,21 @@
+{ 
+  "name": "Budget-Application-Api",
+  "version": "1.0.0",
+  "engines": {
+    "node": "15.3.0"
+  },
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kalilah Clarke",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+
+}
